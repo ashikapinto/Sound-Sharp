@@ -1,0 +1,18 @@
+.mycontainer{
+  padding: 10px;
+
+}
+
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Lobster');
+form div {
+  font-family: 'Alegreya', serif;
+  font-size:20px;
+}
+.heading{
+  font-family: 'Alegreya', serif;
+}
+.saveButton {
+  border-radius:5;
+  background-color: '#343a40';
+  color: 'white';
+}

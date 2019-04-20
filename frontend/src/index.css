@@ -1,0 +1,57 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: Poppins-Regular;
+  src: url('fonts/poppins/Poppins-Regular.ttf');
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url('fonts/poppins/Poppins-Bold.ttf');
+}
+
+@font-face {
+  font-family: Poppins-Medium;
+  src: url('fonts/poppins/Poppins-Medium.ttf');
+}
+
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url('fonts/montserrat/Montserrat-Bold.ttf');
+}
+
+body {
+    background-image: url("basewallpaper.jpg");
+	font-family: Poppins-Regular;
+	font-size: 14px;
+	line-height: 1.7;
+  background-color: #fbc100;
+  background-repeat: no-repeat;
+	color: #000000;
+	margin: 0px;
+	transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+}
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+
+.websitename{
+  font-size:50px;
+  font-family: 'Lobster', cursive;font-family: 'Lobster', cursive;
+}
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Lobster');
+form div {
+  font-family: 'Alegreya', serif;
+  font-size:20px;
+}
+
+.colorit{
+  color: white;
+  font-family: 'Alegreya', serif;
+
+}

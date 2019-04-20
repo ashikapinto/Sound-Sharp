@@ -1,0 +1,5 @@
+<h2><strong>Songs</strong></h2>
+hello {{ username }}
+{% for i in songs %}<br>
+<a href="/{{ i.slug }}">{{i.title}}</a>
+{% endfor %}
